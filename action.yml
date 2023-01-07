@@ -1,4 +1,4 @@
-name: Required Review
+name: Review checks
 description: Check that a Pull Request has reviews from required teams.
 branding:
   icon: 'user-check'
